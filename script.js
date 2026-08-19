@@ -1,7 +1,9 @@
 let products = [
     { Product: "Mouse", Price: 50000 },
     { Product: "Teclado", Price: 80000 },
-    { Product: "Audifonos", Price: 60000 }
+    { Product: "Audifonos", Price: 60000 },
+    { Product: "Cargador", Price: 70000},
+    { Product: "Celular", Price: 1200000}
 ];
 
 const list = document.getElementById("list-products");
